@@ -1,0 +1,22 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
