@@ -1,0 +1,18 @@
+{
+  "Gender": "Female",
+  "Age": 21,
+  "Height": 1.02,
+  "Weight": 32,
+  "CALC": "no",
+  "FAVC": "no",
+  "FCVC": 1,
+  "NCP": 2,
+  "SCC": "no",
+  "SMOKE": "no",
+  "CH2O": 1,
+  "family_history_with_overweight": "yes",
+  "FAF": 1,
+  "TUE": 2,
+  "CAEC": "Sometimes",
+  "MTRANS": "Public_Transportation"
+}

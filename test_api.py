@@ -3,8 +3,8 @@ import requests
 data = {
     "Gender": "Female",
     "Age": 21,
-    "Height": 1.62,
-    "Weight": 110,
+    "Height": 1.12,
+    "Weight": 40,
     "CALC": "no",
     "FAVC": "no",
     "FCVC": 2,
