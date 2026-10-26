@@ -1,0 +1,9 @@
+﻿Kategori,Metrik,Nilai,Status
+Penggunaan,Jumlah prediksi,5.0,
+Kecepatan,Rata-rata latency (ms),17.66,
+Kecepatan,Latency maksimum (ms),47.45,
+Sebaran prediksi,Obesity_Type_III,3.0,60.0%
+Sebaran prediksi,Overweight_Level_II,2.0,40.0%
+Data drift,Age (masuk 21.00 vs latih 24.41),-0.54,PERLU DICEK
+Data drift,Height (masuk 1.42 vs latih 1.70),-3.01,PERLU DICEK
+Data drift,Weight (masuk 82.00 vs latih 86.50),-0.17,normal
